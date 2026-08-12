@@ -2,6 +2,10 @@
 
 A minimal Google Chrome extension that detects links on the current page whose `utm_source` parameter has the exact value `chatgpt.com`.
 
+## Screenshot
+
+![ChatGPT UTM Detector displaying links attributed to chatgpt.com](./screenshot.jpg)
+
 ## How it works
 
 - The icon remains gray when no matches are found.
