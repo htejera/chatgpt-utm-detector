@@ -4,7 +4,7 @@ A minimal Google Chrome extension that detects links on the current page whose `
 
 ## Screenshot
 
-![ChatGPT UTM Detector displaying links attributed to chatgpt.com](./screenshot.jpg)
+![ChatGPT UTM Detector displaying links attributed to chatgpt.com](./captura.jpg)
 
 ## How it works
 
