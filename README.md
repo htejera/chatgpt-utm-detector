@@ -32,6 +32,10 @@ https://ejemplo.com/?utm_medium=referral&utm_source=chatgpt.com
 5. Select the `chatgpt-utm-detector` folder.
 6. Pin the extension to the toolbar so you can easily see the icon change.
 
+## Chrome web store
+
+[ChatGPT UTM Detector](https://chromewebstore.google.com/detail/chatgpt-utm-detector/jggggkmopdnkikfemfhjefcakdggabda) 
+
 ## Permissions
 
 The extension needs to read the content of HTTP and HTTPS pages to detect links before the icon is clicked. All analysis takes place locally in the browser. The extension does not collect, store, or transmit any data.
